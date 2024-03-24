@@ -5,6 +5,19 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+h1 img {
+  padding: 0;
+  margin: 0;
+  width:350px;
+  height: 350px;
+}
+.d-inline-flex button { 
+  margin-left: 20px;
+  border: none;
+  background-color:#41b6e2;
+  border-radius: 5px;
+  color: white;
+}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
