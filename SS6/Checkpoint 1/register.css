@@ -1,0 +1,76 @@
+* { 
+    margin: 0;
+    padding: 0
+   
+}
+.container {
+    margin:0 auto;
+    width: 1280px;
+    height: auto;
+    background-image: url('/SS6/Checkpoint 1/IMG/bg2.jpg');
+
+}
+.logo {
+    text-align: center;
+    
+    height: 100px;
+}
+.logo1 {
+    height: 100px;
+}
+.top
+{
+    text-align: center;
+}
+h1 {
+    padding-top: 20px;
+    font-family: cursive;
+    color:orange;
+    text-shadow: white 1px 0 1px;
+    font-size: 30px;
+}
+p {
+    font-size: 16px;
+    color: aliceblue;
+    font-family:cursive;
+}
+.content {
+    width: 400px;
+  margin: 0% auto;
+}
+
+ input {
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+    border: 3px solid;
+    border-radius: 10px;
+    border-color:#fdd800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    width: 400px;
+    height: 50px;
+ }
+p {
+    color:white;
+    font-size: 16px;  
+padding-left: 3px;
+font-family: cursive;
+}
+.button {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+button {
+     
+    background-color:#561002;
+    color: white;
+    font-size: 16px;
+    font-family: cursive;
+    border: none;
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+}
