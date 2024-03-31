@@ -6,7 +6,7 @@
     margin:0 auto;
     width: 1280px;
     height: auto;
-   background-image: url('/SPCK JSI17/img/portfolio-2.jpg');
+   background-image: url('/SPCK JSI17/img/loginbg.jpg');
    opacity: 0.;
    
   
@@ -30,13 +30,13 @@
 h1 {
     padding-top: 20px;
     font-family: cursive;
-    color:black;
-    text-shadow: white 1px 0 1px;
+    color:white;
+    text-shadow: black 1px 0 1px;
     font-size: 30px;
 }
 p {
     font-size: 16px;
-    color: black;
+    color: #62C3E7;
     font-family:cursive;
    
 }
@@ -97,7 +97,7 @@ button {
 .buttom {
     font-family: cursive;
     padding-top: 20px;
-    color:orange;
+    color: #62C3E7;
     font-weight: normal;
     text-align: center;
     padding-bottom: 30px;
@@ -107,6 +107,6 @@ h4 {
 }
 a {
     font-family: cursive;
-    color: orange;
+    color:  #62C3E7;
 
 }
