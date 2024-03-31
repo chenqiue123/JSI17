@@ -7,16 +7,28 @@
     margin:0 auto;
     width: 1280px;
     height: auto;
-    background-image: url('/IMG/bg2.jpg');
+    background-image: url('/SPCK JSI17/img/111.jpg');
+   
+      
 
+}
+#logo {
+    width:180px;
 }
 .logo {
     text-align: center;
+    padding: 10px;
+    background-color:#F195B2;;
     
-    height: 100px;
+   
+}
+.mainbody{
+    padding-top: 20px;
 }
 .logo1 {
-    height: 100px;
+    
+    width: 250px;
+    
 }
 .top
 {
@@ -25,7 +37,7 @@
 h1 {
     padding-top: 20px;
     font-family: cursive;
-    color:orange;
+    color:white;
     text-shadow: white 1px 0 1px;
     font-size: 30px;
 }
@@ -45,7 +57,7 @@ p {
     padding-left: 10px;
     border: 3px solid;
     border-radius: 10px;
-    border-color:#fdd800;
+    border-color:chocolate;
     margin-top: 10px;
     margin-bottom: 10px;
     background-color: transparent;
@@ -58,6 +70,7 @@ p {
 padding-left: 3px;
 font-family: cursive;
 }
+
 .button {
     padding-top: 20px;
     text-align: center;
@@ -65,8 +78,8 @@ font-family: cursive;
 }
 button {
      
-    background-color:#561002;
-    color: white;
+    background-color:white;
+    color: palevioletred;
     font-size: 16px;
     font-family: cursive;
     border: none;
